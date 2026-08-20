@@ -3,7 +3,7 @@ def numerosPositivos(arreglo):
     indice = 0
     listaVacia = []
     conteoPositivos = 0
-    sumaPositivos = 0
+    sumaPositivos = 0 
     mayorPositivo = 0
     posicionMayorPositivo = 0
     
